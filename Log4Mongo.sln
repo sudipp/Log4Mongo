@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4Mongo", "Log4Mongo\Log4Mongo.csproj", "{C8BFEE40-1946-48FC-A17A-CB26BBABE383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLogMongo", "..\TestLogMongo\TestLogMongo.csproj", "{397AC450-B2B3-4424-9AE9-704FCF5D94C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8BFEE40-1946-48FC-A17A-CB26BBABE383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BFEE40-1946-48FC-A17A-CB26BBABE383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BFEE40-1946-48FC-A17A-CB26BBABE383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BFEE40-1946-48FC-A17A-CB26BBABE383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397AC450-B2B3-4424-9AE9-704FCF5D94C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397AC450-B2B3-4424-9AE9-704FCF5D94C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397AC450-B2B3-4424-9AE9-704FCF5D94C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397AC450-B2B3-4424-9AE9-704FCF5D94C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
